@@ -1,0 +1,6 @@
+Cual es la diferencia entre LocalStorage y SessionStorage?
+- el localstorage permite almacenar datos en la base de datos de navegador en la que
+se ejecuta y no se elimina hasta que se haga una limpieza del navegador, son llamadas
+bien "cookies", guarda datos de forma local en el navegador web
+- el SessionStorage permite almacenar datos en la base de datos del navegador con la
+diferencia que cuando se cierra el navegador o la pestaña ella tambien desaparecen los datos.
